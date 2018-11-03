@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "stylelint-with-spfx-client-side-solution",
+    "id": "5023c72e-f1f0-4a18-af9a-75bd091dd30b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/stylelint-with-spfx.sppkg"
+  }
+}

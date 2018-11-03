@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "stylelint-with-spfx",
+    "libraryId": "5023c72e-f1f0-4a18-af9a-75bd091dd30b",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
